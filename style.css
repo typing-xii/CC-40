@@ -30,13 +30,13 @@ nav {
 }
 nav a {
   text-decoration: none;
-  color: #2c3e2f;
+  color: #8ed99a;
   font-weight: 600;
   margin: 0 1rem;
   transition: color 0.3s ease;
 }
 nav a:hover {
-  color: #557a55;
+  color: #377537;
 }
 main {
   flex: 1;
@@ -50,7 +50,7 @@ section {
 h2 {
   font-family: 'Georgia', serif;
   font-size: 2rem;
-  color: #3b553b;
+  color: #61fb61;
   margin-bottom: 1rem;
   border-bottom: 2px solid #a7c7a7;
   padding-bottom: 0.3rem;
@@ -90,7 +90,7 @@ footer {
   margin-top: auto;
   box-shadow: 0 -2px 5px rgba(0,0,0,0.1);
 }
-/* Contact form */
+
 form {
   max-width: 400px;
   margin-top: 1rem;
